@@ -1,0 +1,29 @@
+# Runtime downloads and generated output
+Zero-WAM/checkpoints/
+Zero-WAM/data/
+Zero-WAM/results/
+Zero-WAM/logs/
+Zero-WAM/.cache/
+Zero-WAM/visualization/
+RoboTwin/assets/background_texture/
+RoboTwin/assets/embodiments/
+RoboTwin/assets/objects/
+RoboTwin/assets/*.zip
+RoboTwin/data/
+RoboTwin/eval_result/
+RoboTwin/eval_video/
+RoboTwin/envs/curobo/
+RoboTwin/result/
+third_party/
+
+# Local/editor caches
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.DS_Store
+.vscode/
+.idea/
+*.log
+*.pid

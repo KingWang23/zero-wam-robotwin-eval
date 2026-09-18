@@ -1,0 +1,6 @@
+name: zerowam
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip

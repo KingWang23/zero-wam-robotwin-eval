@@ -1,0 +1,13 @@
+name: RoboTwin
+channels:
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - cuda-toolkit=12.1.0
+  - cuda-nvcc=12.1.66
+  - cuda-compiler=12.1.0
+  - cuda-cccl
+  - cuda-cudart
+  - cuda-cudart-dev
